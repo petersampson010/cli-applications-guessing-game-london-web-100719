@@ -8,5 +8,6 @@ def run_guessing_game
     return "Sorry! The computer guessed #{random_number}."
   elsif users_input == 'exit'
     return "Goodbye!"
-    
+  end 
+end 
   
